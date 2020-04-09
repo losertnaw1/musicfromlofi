@@ -57,7 +57,7 @@ const getPlayListItems = async playlistID => {
 };
 
 //Xu li Item de lay Title video va videoId
-getPlayListItems("PLwUni6sckLm-ioxT6akF2MrTKaL3VbZiy")
+getPlayListItems("PLPVMrZzinX9SHjwOhljXj2Z5fzhvPnIMS")
 .then(data => {
 	data.forEach(item => {
     	item.items.forEach(i => listVid.push({title: i.snippet.title, idVid: i.snippet.resourceId.videoId}));
