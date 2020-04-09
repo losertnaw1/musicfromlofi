@@ -2,4 +2,4 @@
 
 Music from Youtube by YoutubeAPI
 
-https://s9mple.github.io/lofi-music-player/
+https://losertnaw1.github.io/musicfromlofi/
