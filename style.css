@@ -13,7 +13,7 @@ body {
  	top: 0;
  	height: 120vh;
  	width: 120vw;
- 	background-image: url('https://source.unsplash.com/random/600x250/?landscape');
+ 	background-image: url('https://source.unsplash.com/user/supporter');
 	background-size: cover;
 	filter: blur(20px);
  }
@@ -30,7 +30,7 @@ body {
 .player {
 	position: fixed;
 	top: 27vh;
-	background-image: url('https://source.unsplash.com/random/600x250/?landscape');
+	background-image: url('https://source.unsplash.com/user/supporter');
 	background-size: cover;
 	background-position: center;
 	width: 550px;
